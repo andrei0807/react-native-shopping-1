@@ -1,13 +1,4 @@
-# Shop-React-Native
-
-### Shop-React-Native 是基于 React Native 和 Redux 实现的电商类APP，同时运行在iOS和Android平台上。持续更新中，欢迎一起讨论学习！
-
-#### 如果你支持这个项目，请 Star and Fork Me。
-
-#### 注：有任何问题请在Issues提交，EleTeam会尽快回复。
-
-#### EleTeam开源项目 - 电商全套解决方案之 React Native 版 - Shop-React-Native。一个类似京东/天猫/淘宝的商城，有对应的服务端支持，由EleTeam团队维护！
-#### 服务端是PHP商城，对应项目是 Shop-PHP-Yii2，https://github.com/EleTeam/Shop-PHP-Yii2
+# React Native 商城应用
 
 ### 功能如下:
     支持下拉刷新和上拖加载更多
@@ -55,14 +46,4 @@
 #### react-native 的学习文档: 
     入门基础: http://reactnative.cn/docs/0.31/getting-started.html
     组件的生命周期: http://www.race604.com/react-native-component-lifecycle
-    
-### 部分App界面：
-![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/01.png)      ![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/02.jpg)      ![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/03.jpg)     
-
-![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/04.jpg)      ![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/05.png)      ![](https://github.com/EleTeam/Shop-React-Native/blob/master/screenshoot/06.jpg)        
-
-###### @author Tony Wong
-###### @copyright Copyright © 2016 EleTeam. All rights reserved.
-###### @license The MIT License (MIT)
-
-###### 此源码遵守 The MIT License (MIT)，可用于商业上，但是因此带来的商业损失EleTeam团队不承担责任。
+   
